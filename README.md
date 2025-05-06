@@ -1,9 +1,13 @@
 # vehicle_detection
 # This project implements real-time vehicle detection from video using YOLOv5 and OpenCV. 
 
-# Vehicle Detection Project
+
 
 This project implements real-time vehicle detection from video using YOLOv5 and OpenCV. It can detect and count different types of vehicles in a video stream.
+
+---
+<img width="477" alt="Image" src="https://github.com/user-attachments/assets/c2968ebb-cf91-40d6-b76a-29787bfa3cc6" />
+---
 
 ## Features
 
